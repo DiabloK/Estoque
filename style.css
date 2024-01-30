@@ -23,7 +23,7 @@
 }
 
 .light-mode {
-  --theme-bg-color: rgb(255 255 255 / 31%);
+  --theme-bg-color: rgb(255 255 255 / 5%);
   --theme-color: #3c3a3a;
   --inactive-color: #333333;
   --button-inactive: #3c3a3a;
